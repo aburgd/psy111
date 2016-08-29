@@ -18,6 +18,7 @@ e{number}_notes
 
 the `e{number}` designates which exam it is (there are four of them).
 inside the `slides/` dir are the slides that Dr. Everett has made available on Blackboard.
+
 ---
 ## File Formatting
 
