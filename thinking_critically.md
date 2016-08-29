@@ -142,10 +142,18 @@ attached: [powerpoint]
 
 ---
 ## Stat.s - meas. of cent. tendency
+* _TN_ -
+  * allow us to take large amt of data, and represent w/ one score
+    * w/o listing every single entry in the set of data
 * _def_ - single score that represents a set of scores
   * _mean_ ($\bar{x}$)- average = sum / n, where n = number of scores
+    * influenced by _outliers_ - really high, or really low
+      * _artificial inflation_ caused by outliers
   * _mode_ - most freq. occurring score
+    * least useful
+    * not often reported
   * _median_ - midpt. score = 50th percentile
+    * more acc. reflection of what's going on in the data
 
 ---
 ## Example
@@ -156,3 +164,5 @@ attached: [powerpoint]
 * _def_ - measures of simillarity or diversity in a distrib.
   * _range_ - diff. b/w lowest and highest score
   * _stand. dev._ - measure of how much scores vary around the mean
+      * _TN_ -
+        * tells how much scores vary around $\bar{x}$
