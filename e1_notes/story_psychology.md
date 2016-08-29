@@ -1,6 +1,6 @@
 ## The Story of Psychology
 attached: [powerpoint]
-[powerpoint]: "/Story_Psychology.pptx"
+[powerpoint]: "/slides/Story_Psychology.pptx"
 
 ---
 ## What is Psych

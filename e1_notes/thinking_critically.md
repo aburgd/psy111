@@ -1,6 +1,6 @@
 ## Thinking Critically with Psychological Science
 attached: [powerpoint]
-[powerpoint]: "/Thinking_Critically.pptx"
+[powerpoint]: "/slides/Thinking_Critically.pptx"
 
 ---
 ## Overview
