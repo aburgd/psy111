@@ -69,4 +69,4 @@ n) Remember [n](/{filename}.md#remember)
 ```
 where `n` is the number of the `n`th remember for the exam coverage
 
-[r]: (/e1_notes/remember.md)
+[r]: /e1_notes/remember.md
