@@ -4,7 +4,6 @@ this repo holds my ~~deepest darkest secrets~~ notes for PSY111-01 Foundations o
 
 the textbook used is [Psychology Eleventh Edition in Modules](https://www.amazon.com/Psychology-Modules-David-G-Myers/dp/1464167524)
 
----
 ## Directory Structure
 
 each folder in the repository follows the following format
@@ -19,7 +18,6 @@ e{number}_notes
 the `e{number}` designates which exam it is (there are four of them).
 inside the `slides/` dir are the slides that Dr. Everett has made available on Blackboard.
 
----
 ## File Formatting
 
 ### File
