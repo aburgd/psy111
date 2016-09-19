@@ -164,4 +164,4 @@ attached: [powerpoint]
 
 ---
 ## Finally
-* We are products of Nature and Nurture
+* We are products of Nature **and** Nurture
