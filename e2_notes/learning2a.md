@@ -8,7 +8,7 @@ attached: [powerpoint]
 * classical conditioning
   * associations b/w events the organism does _not_ control
   * respondent behavior
-* **different from***
+* **different from**
 
 ---
 ## Operant conditioning
