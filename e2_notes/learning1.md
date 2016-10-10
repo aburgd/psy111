@@ -82,7 +82,7 @@ attached: [powerpoint]
 
 ---
 ## [Major Conditioning Process](#remember2)
-* acquisition
+* _acquisition_
   * initial learning of stim/resp relationship
   * consider timing
   * may be biologically important
@@ -92,11 +92,11 @@ attached: [powerpoint]
 
 ---
 ## [(cont.)](#remember3)
-* extinction
+* _extinction_
   * decrease of a _CR_ when...
   * a _US_ **does not** follow a _CS_
     * repeated tone **w/o** food
-* spontaneous recovery
+* _spontaneous recovery_
   * reappearance of weakened _CR_
   * **following** a pause
 
