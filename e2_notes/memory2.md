@@ -65,6 +65,8 @@ attached: [powerpoint]
   * stress => more _amygdala_ activity
   * higher arousal => better memory, but
   * prolonged stress => memory disruption
+    * _TN_ -
+      * cortisol can damage ability to retrieve info from memory
 
 ---
 ## Explicit v. Implicit Memory
