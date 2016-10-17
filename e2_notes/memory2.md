@@ -74,7 +74,7 @@ attached: [powerpoint]
   * memory of facts and experiences
   * consciously known and declared
   * processed in hippocampus
-  * anterograde amnesia
+  * _anterograde amnesia_ - loss of ability to create new memories after the event that caused the amnesia
   * ex.
     * facts
     * events
