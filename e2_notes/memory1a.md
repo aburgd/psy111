@@ -16,28 +16,50 @@ attached: [powerpoint]
 
 ---
 ## Encoding - How?
-* automatic processing
-  * unconscious encoding of incidental information
+* _automatic processing_
+  * unconscious encoding of incidental (unimportant) information
+    * _TN_ -
+      * brain decides what needs to be kept (more time spent on it) and what need to be tossed (in one ear out the other)
   * examples
     * space
+      * spatial relationships - where something is located in a book, not the page or the content, just where it is
     * time
+      * time-based relationship - finding something lost by retracing steps
     * frequency
+        * things that are repeated are often remembered better
   * encoded information may become automatic after
+    * effortful procesesing
 
 ---
 ## (cont.)
-* effortful processing
+* _effortful processing_
   * requires attention and conscious effort
   * leads to durable and accessible memories
+    * _TN_ -
+      * longer-lasting memory
   * enhance through _rehearsal_
     * repition of info to maintain in consciousness or encode for storage
   * consider
     * Herman Ebbinghaus
+      * _TN_ -
+        * first to study effortful processing
+        * nonsense syllables from Day 1 and Day 2 he remembered better than 3 and 4
 
 ---
 ## An Example
-* _TN_ -
-  * TK
+* Twelve Days of Christmas illustration
+  * first day - partridge in a pear tree +
+  * second day - two turtle doves +
+  * third - three french hens +
+  * fourth - _calling birds_ -
+  * fifth - five golden rings +
+  * sixth - _geese a-laying_ -
+  * seventh - _seven swans a-swimming_ -
+  * eight = _maids a-milking_ -
+  * nine - _ladies dancing_ -
+  * ten - _lords a-leaping_ -
+  * eleven - _pipers piping_ -
+  * twelve - _drummers drumming_ -
 
 ---
 ## Answers
@@ -49,7 +71,7 @@ attached: [powerpoint]
   * distrib.'d practice is better than massed study for long-term retention
   * longer space b/w practice == better retention
   * ex - studying over time v. cramming night before
-* serial position effect
+* _serial position effect_
   * tendency to recal first and last items in list
   * recency effect
   * primacy effect
@@ -76,7 +98,7 @@ attached: [powerpoint]
   * memory aids that use vivid imagery and organization
   * method of loci
   * _TN_ -
-    * TK
+    * location - encoding things w/ picture
 
 ---
 ## Mnemonic Devices - What do these mean?

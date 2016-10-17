@@ -5,3 +5,4 @@
 3) Remember [3](/learning1.md#remember3)
 4) Remember [4](/learning1.md#remember4)
 5) Remember [5](/learning2a.md#remember)
+6) Remember [6](/memory1a.md#remember)
