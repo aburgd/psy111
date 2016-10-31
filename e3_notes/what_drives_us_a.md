@@ -1,6 +1,6 @@
 ## What Drives Us?
 attached: [powerpoint]
-[powerpoint]: (/slides/WhatDrivesUs_a.pptx)
+[powerpoint]: "./slides/WhatDrivesUs_a.pptx"
 
 ---
 ## Motivation and Hunger
